@@ -118,6 +118,13 @@ client-tui  ->  relay  ->  peer
 
 ## Quick Start
 
+### Make sure these are installed on your system:
+
+- `Python 3.11+`
+- `Rust` and `Cargo`
+- `Go 1.22+`
+- `PowerShell`
+
 ### Start the local stack
 
 ```
