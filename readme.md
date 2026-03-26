@@ -2,7 +2,6 @@
 
 ![Platform](https://img.shields.io/badge/platform-terminal-blue)
 ![Mode](https://img.shields.io/badge/chat-DM--first-green)
-![Privacy](https://img.shields.io/badge/privacy-no%20accounts%20%7C%20no%20chat%20history-black)
 ![Security](https://img.shields.io/badge/security-HTTPq%20%2B%20ratchet-orange)
 
 Anonymous terminal chat for people who want secure 1-to-1 messaging without accounts, profiles, or server-side chat history.
