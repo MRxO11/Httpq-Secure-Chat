@@ -188,4 +188,6 @@ python .\app\main.py
 - DM-first secure messaging is the main supported path.
 - The project is not externally audited yet.
 - Group messaging is not the main finished security story.
-I
+
+
+  I will continously work on this to make it more secure !!
